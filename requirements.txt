@@ -1,0 +1,11 @@
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+jupyter>=1.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+PyYAML>=6.0.1  # Indispensable pour lire ton fichier config/config.yaml
+pytest>=7.4.0
+black>=23.7.0  # Pour formater ton code automatiquement selon les standards
+ruff>=0.0.280  # Le linter ultra-rapide pour détecter les erreurs
+streamlit>=1.25.0  # Parfait pour transformer ton modèle en application web interactive à la fin

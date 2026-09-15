@@ -1,0 +1,13 @@
+data/
+!data/.gitkeep
+data.csv
+
+venv/
+env/
+.env
+
+__pycache__/
+*.pyc
+.pytest_cache/
+
+.vscode/
