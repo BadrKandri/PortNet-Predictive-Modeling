@@ -9,3 +9,4 @@ pytest>=7.4.0
 black>=23.7.0  # Pour formater ton code automatiquement selon les standards
 ruff>=0.0.280  # Le linter ultra-rapide pour détecter les erreurs
 streamlit>=1.25.0  # Parfait pour transformer ton modèle en application web interactive à la fin
+huggingface_hub
